@@ -1,0 +1,14 @@
+{
+  "name": "cointracker",
+  "version": "1.0.0",
+  "description": "A simple Desktop app to track Crypto prices.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Neil Shah",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.1.0"
+  }
+}
